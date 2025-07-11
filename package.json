@@ -1,0 +1,33 @@
+{
+  "name": "flight-tracker-ai",
+  "version": "1.0.0",
+  "description": "AI-powered flight tracker that finds the BEST flights based on user preferences",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "openai": "^4.0.0",
+    "axios": "^1.6.0",
+    "date-fns": "^2.30.0",
+    "lucide-react": "^0.292.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0",
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
+  },
+  "keywords": ["flight", "tracker", "ai", "chatbot", "travel"],
+  "author": "Your Name",
+  "license": "MIT"
+} 
