@@ -10,24 +10,32 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^15.0.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "openai": "^4.0.0",
+    "amadeus": "^7.1.0",
     "axios": "^1.6.0",
     "date-fns": "^2.30.0",
-    "lucide-react": "^0.292.0"
+    "lucide-react": "^0.292.0",
+    "next": "^15.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
-    "typescript": "^5.0.0",
-    "tailwindcss": "^3.4.0",
     "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.0"
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.0.0"
   },
-  "keywords": ["flight", "tracker", "ai", "chatbot", "travel"],
+  "keywords": [
+    "flight",
+    "tracker",
+    "ai",
+    "chatbot",
+    "travel",
+    "amadeus",
+    "real-data"
+  ],
   "author": "Your Name",
   "license": "MIT"
-} 
+}
